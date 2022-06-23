@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### ` DEMO APLIKASI TODO LIST`
 
-https://project-todolist-react.netlify.app/
+https://project-todolist-react.netlify.app
 
 ## Available Scripts
 
